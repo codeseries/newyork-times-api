@@ -1,0 +1,22 @@
+.box
+{
+    padding: 10px 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box:hover
+{
+    background-color: rgb(240, 240, 240);
+    box-shadow: none;   
+}
+.date
+{
+    font-size: 12px;
+}
+.desc
+{
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 14px;
+    opacity: 0.6;
+}
